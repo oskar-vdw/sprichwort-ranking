@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.env
+*.db
+*.sqlite
+*.log
+
+sprichwort-ranking-files/
+docker-compose.yml
+senv/
+
+
+
+# Flask specific
+instance/
+*.bak
+
+# Node.js
+node_modules/
+*.log
+dist/
+
+# Environment files
+.env
+
+# VS Code
+.vscode/

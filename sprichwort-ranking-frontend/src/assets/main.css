@@ -1,0 +1,35 @@
+@import './base.css';
+
+body {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  min-height: 100vh; /* Ensure the body takes up the full height of the viewport */
+  margin: 0;
+}
+
+#app {
+  padding: 2rem;
+  font-weight: normal;
+  width: 100%; /* Ensure the app takes up the full width */
+  max-width: 1280px; /* Optional: set a max-width for the content */
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 768px) {
+  body {
+    padding: 0 20em;
+  }
+}

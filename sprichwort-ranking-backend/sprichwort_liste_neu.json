@@ -1,0 +1,1752 @@
+[
+    {
+        "sprichwort": "Aller Anfang ist schwer.",
+        "erklaerung": "Etwas Neues zu beginnen, ist schwierig.",
+        "icon": "start"
+    },
+    {
+        "sprichwort": "Alles hat ein Ende, nur die Wurst hat zwei.",
+        "erklaerung": "Alles ist endlich.",
+        "icon": "theaters"
+    },
+    {
+        "sprichwort": "Alles hat seine Zeit.",
+        "erklaerung": "Man soll nichts \u00fcberst\u00fcrzen.",
+        "icon": "hourglass_empty"
+    },
+    {
+        "sprichwort": "Allzu viel ist ungesund.",
+        "erklaerung": "\u00dcbertreibung ist schlecht.",
+        "icon": "warning"
+    },
+    {
+        "sprichwort": "Alte Liebe rostet nicht.",
+        "erklaerung": "Wahre Liebe bleibt bestehen.",
+        "icon": "favorite"
+    },
+    {
+        "sprichwort": "Alter sch\u00fctzt vor Torheit nicht.",
+        "erklaerung": "Auch \u00c4ltere k\u00f6nnen unvern\u00fcnftig sein.",
+        "icon": "face"
+    },
+    {
+        "sprichwort": "Andere L\u00e4nder, andere Sitten.",
+        "erklaerung": "Kulturen unterscheiden sich.",
+        "icon": "public"
+    },
+    {
+        "sprichwort": "April, April, der wei\u00df nicht, was er will.",
+        "erklaerung": "Das Wetter im April ist wechselhaft.",
+        "icon": "rainy"
+    },
+    {
+        "sprichwort": "Arbeit ist das halbe Leben.",
+        "erklaerung": "Arbeit ist wichtig im Leben.",
+        "icon": "work"
+    },
+    {
+        "sprichwort": "Arbeit sch\u00e4ndet nicht.",
+        "erklaerung": "Man soll sich f\u00fcr Arbeit nicht sch\u00e4men.",
+        "icon": "construction"
+    },
+    {
+        "sprichwort": "Armut sch\u00e4ndet nicht.",
+        "erklaerung": "Arm sein ist keine Schande.",
+        "icon": "money_off"
+    },
+    {
+        "sprichwort": "Auch ein blindes Huhn findet mal ein Korn.",
+        "erklaerung": "Jeder hat mal Gl\u00fcck.",
+        "icon": "lucky"
+    },
+    {
+        "sprichwort": "Aus Fehlern lernt man.",
+        "erklaerung": "Fehler helfen uns, besser zu werden.",
+        "icon": "school"
+    },
+    {
+        "sprichwort": "Aus Kindern werden Leute.",
+        "erklaerung": "Kinder werden erwachsen.",
+        "icon": "child_care"
+    },
+    {
+        "sprichwort": "Ausnahmen best\u00e4tigen die Regel.",
+        "erklaerung": "Regeln gelten nicht immer.",
+        "icon": "gavel"
+    },
+    {
+        "sprichwort": "Bei Nacht sind alle Katzen grau.",
+        "erklaerung": "Im Dunkeln sind Unterschiede schwer zu sehen.",
+        "icon": "dark_mode"
+    },
+    {
+        "sprichwort": "Bellende Hunde bei\u00dfen nicht.",
+        "erklaerung": "Wer droht, tut oft nichts.",
+        "icon": "pets"
+    },
+    {
+        "sprichwort": "Besser den Spatz in der Hand...",
+        "erklaerung": "...als die Taube auf dem Dach.",
+        "icon": "bird"
+    },
+    {
+        "sprichwort": "Besser eine Stunde zu fr\u00fch...",
+        "erklaerung": "...als eine Minute zu sp\u00e4t.",
+        "icon": "schedule"
+    },
+    {
+        "sprichwort": "Besser etwas als gar nichts.",
+        "erklaerung": "Wenig ist besser als nichts.",
+        "icon": "done"
+    },
+    {
+        "sprichwort": "Besser gut verschoben...",
+        "erklaerung": "...als schlecht verhoben.",
+        "icon": "calendar_today"
+    },
+    {
+        "sprichwort": "Besser sp\u00e4t als nie.",
+        "erklaerung": "Es ist nie zu sp\u00e4t.",
+        "icon": "late"
+    },
+    {
+        "sprichwort": "Besser stumm als dumm.",
+        "erklaerung": "Manchmal ist Schweigen besser.",
+        "icon": "silence"
+    },
+    {
+        "sprichwort": "Blut ist dicker als Wasser.",
+        "erklaerung": "Famili\u00e4re Bindungen sind st\u00e4rker.",
+        "icon": "family_restroom"
+    },
+    {
+        "sprichwort": "Danken hilft vor wanken, loben zieht nach oben.",
+        "erklaerung": "Dankbarkeit und Lob sind wichtig.",
+        "icon": "thumb_up"
+    },
+    {
+        "sprichwort": "Das Auge isst mit.",
+        "erklaerung": "Die Pr\u00e4sentation beeinflusst den Geschmack.",
+        "icon": "visibility"
+    },
+    {
+        "sprichwort": "Das Bessere ist der Feind des Guten.",
+        "erklaerung": "Perfektionismus verhindert Vollendung.",
+        "icon": "block"
+    },
+    {
+        "sprichwort": "Das dicke Ende kommt noch.",
+        "erklaerung": "Die schlimmsten Konsequenzen kommen noch.",
+        "icon": "warning"
+    },
+    {
+        "sprichwort": "Das Ei will kl\u00fcger sein als die Henne.",
+        "erklaerung": "Unerfahrene kritisieren Erfahrene.",
+        "icon": "child_care"
+    },
+    {
+        "sprichwort": "Das Gl\u00fcck der Erde liegt auf dem R\u00fccken der Pferde.",
+        "erklaerung": "Reiten bringt Gl\u00fcck.",
+        "icon": "sports_kabaddi"
+    },
+    {
+        "sprichwort": "Das Hemd ist einem n\u00e4her als die Hose.",
+        "erklaerung": "Eigene Interessen sind wichtiger.",
+        "icon": "person"
+    },
+    {
+        "sprichwort": "Das Leben ist kein Ponyhof.",
+        "erklaerung": "Das Leben ist nicht immer einfach.",
+        "icon": "sentiment_dissatisfied"
+    },
+    {
+        "sprichwort": "Das Leben ist kein Wunschkonzert.",
+        "erklaerung": "Nicht alle W\u00fcnsche gehen in Erf\u00fcllung.",
+        "icon": "sentiment_dissatisfied"
+    },
+    {
+        "sprichwort": "Das letzte Hemd hat keine Taschen.",
+        "erklaerung": "Man kann nichts mit in den Tod nehmen.",
+        "icon": "skull"
+    },
+    {
+        "sprichwort": "Dem Ersten der Tod; dem Zweiten die Not; dem Dritten das Brot.",
+        "erklaerung": "Nachfolge bringt oft Nachteile.",
+        "icon": "family_restroom"
+    },
+    {
+        "sprichwort": "Dem Flei\u00dfigen hilft Gott.",
+        "erklaerung": "Flei\u00df wird belohnt.",
+        "icon": "work"
+    },
+    {
+        "sprichwort": "Dem fliehenden Feinde soll man goldene Br\u00fccken bauen.",
+        "erklaerung": "Man sollte den R\u00fcckzug erleichtern.",
+        "icon": "handshake"
+    },
+    {
+        "sprichwort": "Dem Mutigen geh\u00f6rt die Welt.",
+        "erklaerung": "Mut wird belohnt.",
+        "icon": "sports_kabaddi"
+    },
+    {
+        "sprichwort": "Den Kopf halt kalt, die F\u00fc\u00dfe warm, das macht den besten Doktor arm.",
+        "erklaerung": "Gesundheit durch einfache Mittel.",
+        "icon": "health_and_safety"
+    },
+    {
+        "sprichwort": "Den Letzten bei\u00dfen die Hunde.",
+        "erklaerung": "Nachz\u00fcgler haben Nachteile.",
+        "icon": "warning"
+    },
+    {
+        "sprichwort": "Der Apfel f\u00e4llt nicht weit vom Stamm.",
+        "erklaerung": "Kinder \u00e4hneln ihren Eltern.",
+        "icon": "family_restroom"
+    },
+    {
+        "sprichwort": "Der Appetit kommt beim Essen.",
+        "erklaerung": "Man will mehr, wenn man einmal angefangen hat.",
+        "icon": "restaurant"
+    },
+    {
+        "sprichwort": "Der April macht, was er will.",
+        "erklaerung": "Das Wetter im April ist unberechenbar.",
+        "icon": "cloud"
+    },
+    {
+        "sprichwort": "Der Cent macht den Euro.",
+        "erklaerung": "Kleine Betr\u00e4ge summieren sich.",
+        "icon": "euro"
+    },
+    {
+        "sprichwort": "Der d\u00fcmmste Bauer hat die dicksten Kartoffeln.",
+        "erklaerung": "Dumme haben manchmal Gl\u00fcck.",
+        "icon": "agriculture"
+    },
+    {
+        "sprichwort": "Der Fisch f\u00e4ngt beim Kopf an zu stinken.",
+        "erklaerung": "Probleme beginnen oft an der Spitze.",
+        "icon": "warning"
+    },
+    {
+        "sprichwort": "Der Fisch will schwimmen.",
+        "erklaerung": "Man braucht Erfrischung.",
+        "icon": "local_bar"
+    },
+    {
+        "sprichwort": "Der fr\u00fche Vogel f\u00e4ngt den Wurm.",
+        "erklaerung": "Wer fr\u00fch anf\u00e4ngt, hat mehr Erfolg.",
+        "icon": "alarm"
+    },
+    {
+        "sprichwort": "Der Glaube kann Berge versetzen.",
+        "erklaerung": "Glaube kann viel bewirken.",
+        "icon": "church"
+    },
+    {
+        "sprichwort": "Der Hehler ist schlimmer als der Stehler.",
+        "erklaerung": "Wer Diebesgut annimmt, macht sich mitschuldig.",
+        "icon": "gavel"
+    },
+    {
+        "sprichwort": "Der Kl\u00fcgere gibt nach.",
+        "erklaerung": "Nachgeben ist manchmal kl\u00fcger.",
+        "icon": "handshake"
+    },
+    {
+        "sprichwort": "Der Krug geht so lange zum Brunnen, bis er bricht.",
+        "erklaerung": "Irgendwann ist Schluss.",
+        "icon": "warning"
+    },
+    {
+        "sprichwort": "Der Mensch denkt und Gott lenkt.",
+        "erklaerung": "Nicht alles ist planbar.",
+        "icon": "church"
+    },
+    {
+        "sprichwort": "Der Mensch lebt nicht vom Brot allein.",
+        "erklaerung": "Man braucht mehr als nur Materielles.",
+        "icon": "sentiment_very_satisfied"
+    },
+    {
+        "sprichwort": "Der Narr tr\u00e4gt sein Herz auf der Zunge.",
+        "erklaerung": "Naive verstecken ihre Gef\u00fchle nicht.",
+        "icon": "face"
+    },
+    {
+        "sprichwort": "Der Spatz in der Hand ist besser als die Taube auf dem Dach.",
+        "erklaerung": "Lieber den sicheren Vorteil.",
+        "icon": "thumb_up"
+    },
+    {
+        "sprichwort": "Der Teufel steckt im Detail.",
+        "erklaerung": "Kleine Fehler k\u00f6nnen gro\u00dfe Folgen haben.",
+        "icon": "warning"
+    },
+    {
+        "sprichwort": "Der Ton macht die Musik.",
+        "erklaerung": "Die Art und Weise z\u00e4hlt.",
+        "icon": "record_voice_over"
+    },
+    {
+        "sprichwort": "Der Weg ist das Ziel.",
+        "erklaerung": "Genie\u00dfe den Prozess, nicht nur das Ergebnis.",
+        "icon": "directions_walk"
+    },
+    {
+        "sprichwort": "Der Zweck heiligt die Mittel.",
+        "erklaerung": "Fragw\u00fcrdige Methoden f\u00fcr ein gutes Ziel.",
+        "icon": "gavel"
+    },
+    {
+        "sprichwort": "Des einen Freud ist des anderen Leid.",
+        "erklaerung": "Was einen freut, kann anderen schaden.",
+        "icon": "sentiment_neutral"
+    },
+    {
+        "sprichwort": "Die Axt im Haus erspart den Zimmermann.",
+        "erklaerung": "Selbst ist der Mann / die Frau.",
+        "icon": "build"
+    },
+    {
+        "sprichwort": "Die Bratwurst sucht man nicht im H\u00fchnerstall.",
+        "erklaerung": "Suche am richtigen Ort.",
+        "icon": "search"
+    },
+    {
+        "sprichwort": "Die d\u00fcmmsten Bauern haben die dicksten Kartoffeln.",
+        "erklaerung": "Gl\u00fcck und Erfolg sind nicht gerecht verteilt.",
+        "icon": "agriculture"
+    },
+    {
+        "sprichwort": "Die Feder ist m\u00e4chtiger als das Schwert.",
+        "erklaerung": "Worte sind st\u00e4rker als Gewalt.",
+        "icon": "edit"
+    },
+    {
+        "sprichwort": "Die Gesundheit sch\u00e4tzt man erst, wenn man sie verloren hat.",
+        "erklaerung": "Man wei\u00df erst, was man hat, wenn man es verliert.",
+        "icon": "favorite"
+    },
+    {
+        "sprichwort": "Die Hunde bellen, aber die Karawane zieht weiter.",
+        "erklaerung": "Lass dich nicht von Kritik abhalten.",
+        "icon": "forward"
+    },
+    {
+        "sprichwort": "Die Katze l\u00e4sst das Mausen nicht.",
+        "erklaerung": "Niemand \u00e4ndert sich komplett.",
+        "icon": "pets"
+    },
+    {
+        "sprichwort": "Die kleinen Diebe h\u00e4ngt man, die gro\u00dfen l\u00e4sst man laufen.",
+        "erklaerung": "Ungerechtigkeit im Rechtssystem.",
+        "icon": "balance"
+    },
+    {
+        "sprichwort": "Die Letzten werden die Ersten sein.",
+        "erklaerung": "Manchmal wendet sich das Blatt.",
+        "icon": "last_page"
+    },
+    {
+        "sprichwort": "Die Nacht ist keines Menschen Freund.",
+        "erklaerung": "Gefahren lauern im Dunkeln.",
+        "icon": "nightlight"
+    },
+    {
+        "sprichwort": "Die Narbe bleibt, wenn auch die Wunde heilt.",
+        "erklaerung": "Manche Dinge hinterlassen Spuren.",
+        "icon": "healing"
+    },
+    {
+        "sprichwort": "Die Not lehrt beten.",
+        "erklaerung": "In der Not wird man erfinderisch.",
+        "icon": "pan"
+    },
+    {
+        "sprichwort": "Die Sch\u00f6nheit liegt im Auge des Betrachters.",
+        "erklaerung": "Sch\u00f6nheit ist subjektiv.",
+        "icon": "visibility"
+    },
+    {
+        "sprichwort": "Die Sonne bringt es an den Tag.",
+        "erklaerung": "Die Wahrheit kommt ans Licht.",
+        "icon": "light_mode"
+    },
+    {
+        "sprichwort": "Die Tat wirkt m\u00e4chtiger als das Wort.",
+        "erklaerung": "Taten z\u00e4hlen mehr als Worte.",
+        "icon": "thumb_up"
+    },
+    {
+        "sprichwort": "Die Uhr schl\u00e4gt keinem Gl\u00fccklichen.",
+        "erklaerung": "Gl\u00fcckliche Menschen vergessen die Zeit.",
+        "icon": "schedule"
+    },
+    {
+        "sprichwort": "Die W\u00e4nde haben Ohren.",
+        "erklaerung": "Man sollte vorsichtig sein, was man sagt.",
+        "icon": "earbuds"
+    },
+    {
+        "sprichwort": "Die Welt ist ein Dorf.",
+        "erklaerung": "Durch Globalisierung ist alles vernetzt.",
+        "icon": "public"
+    },
+    {
+        "sprichwort": "Die Welt ist klein.",
+        "erklaerung": "Man trifft oft bekannte Gesichter.",
+        "icon": "public"
+    },
+    {
+        "sprichwort": "Die Zeit heilt alle Wunden.",
+        "erklaerung": "Schmerz vergeht mit der Zeit.",
+        "icon": "healing"
+    },
+    {
+        "sprichwort": "Dienst ist Dienst und Schnaps ist Schnaps.",
+        "erklaerung": "Trenne Arbeit und Freizeit.",
+        "icon": "work"
+    },
+    {
+        "sprichwort": "Doppelt gibt, wer bald gibt.",
+        "erklaerung": "Schnelle Hilfe ist doppelt wertvoll.",
+        "icon": "volunteer_activism"
+    },
+    {
+        "sprichwort": "Doppelt h\u00e4lt besser.",
+        "erklaerung": "Vorsicht ist besser als Nachsicht.",
+        "icon": "build"
+    },
+    {
+        "sprichwort": "Dumm bleibt dumm, da helfen keine Pillen.",
+        "erklaerung": "Dummheit ist schwer zu \u00e4ndern.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Dummheit und Stolz wachsen auf einem Holz.",
+        "erklaerung": "Dumme Menschen sind oft arrogant.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Durch Schaden wird man klug.",
+        "erklaerung": "Aus Fehlern lernt man.",
+        "icon": "school"
+    },
+    {
+        "sprichwort": "Edel sei der Mensch, hilfreich und gut.",
+        "erklaerung": "Strebe nach G\u00fcte und Hilfsbereitschaft.",
+        "icon": "volunteer_activism"
+    },
+    {
+        "sprichwort": "Ehre verloren, alles verloren.",
+        "erklaerung": "Ehre ist unbezahlbar.",
+        "icon": "military_tech"
+    },
+    {
+        "sprichwort": "Ehre, wem Ehre geb\u00fchrt.",
+        "erklaerung": "Verdiente Anerkennung geben.",
+        "icon": "military_tech"
+    },
+    {
+        "sprichwort": "Ehrlich w\u00e4hrt am l\u00e4ngsten.",
+        "erklaerung": "Ehrlichkeit ist die beste Politik.",
+        "icon": "gavel"
+    },
+    {
+        "sprichwort": "Eigener Herd ist Goldes wert.",
+        "erklaerung": "Zuhause ist es am sch\u00f6nsten.",
+        "icon": "home"
+    },
+    {
+        "sprichwort": "Eile mit Weile.",
+        "erklaerung": "Geduld bringt dich schneller ans Ziel.",
+        "icon": "hourglass_empty"
+    },
+    {
+        "sprichwort": "Ein Bild sagt mehr als tausend Worte.",
+        "erklaerung": "Bilder sind aussagekr\u00e4ftiger als Worte.",
+        "icon": "image"
+    },
+    {
+        "sprichwort": "Ein blindes Huhn findet auch einmal ein Korn.",
+        "erklaerung": "Auch mit Gl\u00fcck kann man Erfolg haben.",
+        "icon": "lucky_emblem"
+    },
+    {
+        "sprichwort": "Ein Esel schimpft den anderen Langohr.",
+        "erklaerung": "Man kritisiert an anderen, was man selbst hat.",
+        "icon": "donkey"
+    },
+    {
+        "sprichwort": "Ein gebranntes Kind scheut das Feuer.",
+        "erklaerung": "Schlechte Erfahrungen pr\u00e4gen.",
+        "icon": "burn"
+    },
+    {
+        "sprichwort": "Ein guter Name ist mehr wert als Silber und Gold.",
+        "erklaerung": "Ruf ist wichtiger als Reichtum.",
+        "icon": "account_balance"
+    },
+    {
+        "sprichwort": "Ein gutes Gewissen ist ein sanftes Ruhekissen.",
+        "erklaerung": "Ehrlichkeit l\u00e4sst einen ruhig schlafen.",
+        "icon": "bed"
+    },
+    {
+        "sprichwort": "Ein kluges Pferd springt nur so hoch, wie es muss.",
+        "erklaerung": "Verschwende keine Energie unn\u00f6tig.",
+        "icon": "horse"
+    },
+    {
+        "sprichwort": "Ein krummer Stecken wirft keinen geraden Schatten.",
+        "erklaerung": "Fehler f\u00fchren zu weiteren Fehlern.",
+        "icon": "error"
+    },
+    {
+        "sprichwort": "Ein leerer Bauch studiert nicht gut.",
+        "erklaerung": "Konzentration braucht Energie.",
+        "icon": "fastfood"
+    },
+    {
+        "sprichwort": "Ein Mann, ein Wort.",
+        "erklaerung": "Versprechen sollte man halten.",
+        "icon": "handshake"
+    },
+    {
+        "sprichwort": "Ein Narr fragt mehr, als zehn Weise beantworten k\u00f6nnen.",
+        "erklaerung": "Manche Fragen sind nicht zu beantworten.",
+        "icon": "question_mark"
+    },
+    {
+        "sprichwort": "Ein Nein zur rechten Zeit erspart viel Widerw\u00e4rtigkeit.",
+        "erklaerung": "Klare Grenzen setzen ist wichtig.",
+        "icon": "close"
+    },
+    {
+        "sprichwort": "Ein r\u00e4udiges Schaf steckt die ganze Herde an.",
+        "erklaerung": "Schlechter Einfluss wirkt sich aus.",
+        "icon": "sick"
+    },
+    {
+        "sprichwort": "Ein Richter soll zwei gleiche Ohren haben.",
+        "erklaerung": "Urteile sollten unparteiisch sein.",
+        "icon": "gavel"
+    },
+    {
+        "sprichwort": "Ein schlafender Fuchs f\u00e4ngt kein Huhn.",
+        "erklaerung": "Ohne Flei\u00df kein Erfolg.",
+        "icon": "fox"
+    },
+    {
+        "sprichwort": "Ein Spiel dauert 90 Minuten.",
+        "erklaerung": "Gib nicht auf, bis es vorbei ist.",
+        "icon": "sports_soccer"
+    },
+    {
+        "sprichwort": "Ein Ungl\u00fcck kommt selten allein.",
+        "erklaerung": "Probleme treten oft geh\u00e4uft auf.",
+        "icon": "warning"
+    },
+    {
+        "sprichwort": "Ein voller Bauch studiert nicht gern.",
+        "erklaerung": "Satt sein macht tr\u00e4ge.",
+        "icon": "stomach"
+    },
+    {
+        "sprichwort": "Eine gebratene Taube fliegt keinem ins Maul.",
+        "erklaerung": "Erfolg erfordert Anstrengung.",
+        "icon": "pigeon"
+    },
+    {
+        "sprichwort": "Eine Hand w\u00e4scht die andere.",
+        "erklaerung": "Gegenseitige Hilfe ist wichtig.",
+        "icon": "pan_tool"
+    },
+    {
+        "sprichwort": "Eine Kr\u00e4he hackt der anderen kein Auge aus.",
+        "erklaerung": "Seinesgleichen bek\u00e4mpft man nicht.",
+        "icon": "crow"
+    },
+    {
+        "sprichwort": "Eine Schwalbe macht noch keinen Sommer.",
+        "erklaerung": "Einzelne Ereignisse sind nicht aussagekr\u00e4ftig.",
+        "icon": "swallow"
+    },
+    {
+        "sprichwort": "Einem dreschenden Ochsen soll man nicht das Maul verbinden.",
+        "erklaerung": "Wer hart arbeitet, soll nicht am Lohn gehindert werden.",
+        "icon": "work"
+    },
+    {
+        "sprichwort": "Einem geschenkten Gaul schaut man nicht ins Maul.",
+        "erklaerung": "\u00dcber Geschenke soll man sich nicht beschweren.",
+        "icon": "gift"
+    },
+    {
+        "sprichwort": "Einigkeit macht stark.",
+        "erklaerung": "Gemeinsam ist man st\u00e4rker als allein.",
+        "icon": "group"
+    },
+    {
+        "sprichwort": "Ende gut, alles gut.",
+        "erklaerung": "Wenn das Ergebnis stimmt, ist der Weg egal.",
+        "icon": "check_circle"
+    },
+    {
+        "sprichwort": "Erfahrung ist die beste Lehrmeisterin.",
+        "erklaerung": "Aus Fehlern lernt man am meisten.",
+        "icon": "school"
+    },
+    {
+        "sprichwort": "Erlaubt ist, was gef\u00e4llt.",
+        "erklaerung": "Solange es keine Regeln bricht, ist alles erlaubt.",
+        "icon": "thumb_up"
+    },
+    {
+        "sprichwort": "Erst die Arbeit und dann das Vergn\u00fcgen.",
+        "erklaerung": "Pflichten gehen vor Spa\u00df.",
+        "icon": "work"
+    },
+    {
+        "sprichwort": "Es f\u00e4llt keine Eiche vom ersten Streiche.",
+        "erklaerung": "F\u00fcr Erfolg braucht es Geduld und Ausdauer.",
+        "icon": "eco"
+    },
+    {
+        "sprichwort": "Es gibt nichts Gutes, au\u00dfer man tut es.",
+        "erklaerung": "Nur wer handelt, kann etwas erreichen.",
+        "icon": "forward"
+    },
+    {
+        "sprichwort": "Es ist nicht alles Gold, was gl\u00e4nzt.",
+        "erklaerung": "Der Schein tr\u00fcgt.",
+        "icon": "diamond"
+    },
+    {
+        "sprichwort": "Es ist noch kein Meister vom Himmel gefallen.",
+        "erklaerung": "Perfektion braucht \u00dcbung.",
+        "icon": "person"
+    },
+    {
+        "sprichwort": "Essen und Trinken h\u00e4lt Leib und Seele zusammen.",
+        "erklaerung": "Nahrung ist lebensnotwendig.",
+        "icon": "restaurant"
+    },
+    {
+        "sprichwort": "Fette K\u00fcche macht mageren Beutel.",
+        "erklaerung": "Luxus kostet Geld.",
+        "icon": "money"
+    },
+    {
+        "sprichwort": "Flei\u00df ist des Gl\u00fcckes rechte Hand, Sparsamkeit die linke.",
+        "erklaerung": "Flei\u00df und Sparsamkeit f\u00fchren zu Erfolg.",
+        "icon": "work"
+    },
+    {
+        "sprichwort": "Fragen kostet nichts.",
+        "erklaerung": "Man sollte keine Angst vor Fragen haben.",
+        "icon": "question_mark"
+    },
+    {
+        "sprichwort": "Freunde in der Not gehen tausend auf ein Lot.",
+        "erklaerung": "Wahre Freunde helfen in schweren Zeiten.",
+        "icon": "group"
+    },
+    {
+        "sprichwort": "Frisch gewagt ist halb gewonnen.",
+        "erklaerung": "Mutig sein hilft beim Erfolg.",
+        "icon": "forward"
+    },
+    {
+        "sprichwort": "Fr\u00fch \u00fcbt sich, wer ein Meister werden will.",
+        "erklaerung": "Fr\u00fch \u00fcbt sich, wer ein Meister werden will.",
+        "icon": "school"
+    },
+    {
+        "sprichwort": "Geben ist seliger denn Nehmen.",
+        "erklaerung": "Helfen macht gl\u00fccklicher als nehmen.",
+        "icon": "volunteer"
+    },
+    {
+        "sprichwort": "Gebranntes Kind scheut das Feuer.",
+        "erklaerung": "Schlechte Erfahrungen machen vorsichtig.",
+        "icon": "fire"
+    },
+    {
+        "sprichwort": "Gegen Dummheit k\u00e4mpfen G\u00f6tter selbst vergebens.",
+        "erklaerung": "Dummheit ist unbesiegbar.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Gegens\u00e4tze ziehen sich an.",
+        "erklaerung": "Unterschiedliche Menschen erg\u00e4nzen sich.",
+        "icon": "heart"
+    },
+    {
+        "sprichwort": "Geld braucht eine schwere Hand.",
+        "erklaerung": "Mit Geld sollte man vorsichtig umgehen.",
+        "icon": "money"
+    },
+    {
+        "sprichwort": "Geld macht nicht gl\u00fccklich, aber es beruhigt.",
+        "erklaerung": "Geld l\u00f6st nicht alle Probleme, aber viele.",
+        "icon": "money"
+    },
+    {
+        "sprichwort": "Geld regiert die Welt.",
+        "erklaerung": "Geld hat gro\u00dfen Einfluss.",
+        "icon": "money"
+    },
+    {
+        "sprichwort": "Geld stinkt nicht.",
+        "erklaerung": "Die Herkunft des Geldes ist egal.",
+        "icon": "money"
+    },
+    {
+        "sprichwort": "Gelegenheit macht Diebe.",
+        "erklaerung": "Leicht zug\u00e4ngliches verf\u00fchrt zum Stehlen.",
+        "icon": "no_photography"
+    },
+    {
+        "sprichwort": "Gelegenheit macht Liebe.",
+        "erklaerung": "N\u00e4he kann Liebe entstehen lassen.",
+        "icon": "heart"
+    },
+    {
+        "sprichwort": "Gemeinnutz geht vor Eigennutz.",
+        "erklaerung": "Das Wohl aller ist wichtiger als das eigene.",
+        "icon": "group"
+    },
+    {
+        "sprichwort": "Geschenke sind am sch\u00f6nsten, wenn man sie nicht erwartet.",
+        "erklaerung": "Unerwartete Geschenke freuen am meisten.",
+        "icon": "gift"
+    },
+    {
+        "sprichwort": "Gestohlenes Gut brennt.",
+        "erklaerung": "Unrechtm\u00e4\u00dfig erworbenes bringt kein Gl\u00fcck.",
+        "icon": "fire"
+    },
+    {
+        "sprichwort": "Geteilte Freude ist doppelte Freude.",
+        "erklaerung": "Freude wird durch Teilen verst\u00e4rkt.",
+        "icon": "sentiment_very_satisfied"
+    },
+    {
+        "sprichwort": "Geteilter Schmerz ist halber Schmerz.",
+        "erklaerung": "Gemeinsam kann man Leid besser ertragen.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Getroffene Hunde bellen.",
+        "erklaerung": "Wer angegriffen wird, wehrt sich.",
+        "icon": "pets"
+    },
+    {
+        "sprichwort": "Gleich und Gleich gesellt sich gern.",
+        "erklaerung": "\u00c4hnliche Menschen verstehen sich besser.",
+        "icon": "group"
+    },
+    {
+        "sprichwort": "Gl\u00fcck und Glas, wie leicht bricht das.",
+        "erklaerung": "Gl\u00fcck kann schnell vorbei sein.",
+        "icon": "sentiment_very_satisfied"
+    },
+    {
+        "sprichwort": "Gl\u00fccklich ist, wer vergisst, was nicht mehr zu \u00e4ndern ist.",
+        "erklaerung": "Vergangenes loslassen macht gl\u00fccklich.",
+        "icon": "sentiment_very_satisfied"
+    },
+    {
+        "sprichwort": "Gold l\u00e4utert man im Feuer, Menschen im Leide.",
+        "erklaerung": "Schwierigkeiten machen stark.",
+        "icon": "fire"
+    },
+    {
+        "sprichwort": "Gottes M\u00fchlen mahlen langsam.",
+        "erklaerung": "Gerechtigkeit siegt, aber langsam.",
+        "icon": "hourglass_empty"
+    },
+    {
+        "sprichwort": "Gro\u00dfe Dinge werfen ihren Schatten voraus.",
+        "erklaerung": "Wichtige Ereignisse k\u00fcndigen sich an.",
+        "icon": "cast"
+    },
+    {
+        "sprichwort": "Gro\u00dfe Keulen schlagen gro\u00dfe Beulen.",
+        "erklaerung": "Gro\u00dfe Anstrengungen bringen gro\u00dfe Erfolge.",
+        "icon": "fitness_center"
+    },
+    {
+        "sprichwort": "Gut Ding will Weile haben.",
+        "erklaerung": "Qualit\u00e4t braucht Zeit.",
+        "icon": "hourglass_empty"
+    },
+    {
+        "sprichwort": "Gut gekaut ist halb verdaut.",
+        "erklaerung": "Gr\u00fcndliches Kauen erleichtert die Verdauung.",
+        "icon": "restaurant"
+    },
+    {
+        "sprichwort": "Guter Start ist halber Sieg.",
+        "erklaerung": "Ein guter Anfang ist wichtig f\u00fcr den Erfolg.",
+        "icon": "flag"
+    },
+    {
+        "sprichwort": "Gutes braucht seine Zeit.",
+        "erklaerung": "Qualit\u00e4t braucht Zeit.",
+        "icon": "hourglass_empty"
+    },
+    {
+        "sprichwort": "Haben ist besser als Brauchen.",
+        "erklaerung": "Es ist besser, etwas zu besitzen, als es zu ben\u00f6tigen.",
+        "icon": "check"
+    },
+    {
+        "sprichwort": "Handwerk hat goldenen Boden.",
+        "erklaerung": "Handwerkliche Berufe sind krisensicher.",
+        "icon": "build"
+    },
+    {
+        "sprichwort": "Harte Schale, weicher Kern.",
+        "erklaerung": "Manche Menschen wirken hart, sind aber im Inneren sensibel.",
+        "icon": "person"
+    },
+    {
+        "sprichwort": "Hochmut kommt vor dem Fall.",
+        "erklaerung": "\u00dcberheblichkeit wird bestraft.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Hoffen und Harren macht manchen zum Narren.",
+        "erklaerung": "Zu langes Warten kann dumm machen.",
+        "icon": "hourglass_empty"
+    },
+    {
+        "sprichwort": "Hoffnung ist der Kutscher der Armut.",
+        "erklaerung": "Wer nur hofft, wird nicht reich.",
+        "icon": "money"
+    },
+    {
+        "sprichwort": "Hunde, die bellen, bei\u00dfen nicht.",
+        "erklaerung": "Wer viel droht, tut selten etwas.",
+        "icon": "pets"
+    },
+    {
+        "sprichwort": "Hunger ist der beste Koch.",
+        "erklaerung": "Wenn man hungrig ist, schmeckt alles.",
+        "icon": "restaurant"
+    },
+    {
+        "sprichwort": "Im Becher ertrinken mehr als im Meer.",
+        "erklaerung": "\u00dcberm\u00e4\u00dfiger Alkoholkonsum ist gef\u00e4hrlich.",
+        "icon": "local_bar"
+    },
+    {
+        "sprichwort": "Im Dunkeln ist gut munkeln.",
+        "erklaerung": "Geheimnisse werden im Dunkeln geteilt.",
+        "icon": "visibility_off"
+    },
+    {
+        "sprichwort": "In der Beschr\u00e4nkung zeigt sich der Meister.",
+        "erklaerung": "Wahre Kunst ist Reduktion.",
+        "icon": "palette"
+    },
+    {
+        "sprichwort": "In der K\u00fcrze liegt die W\u00fcrze.",
+        "erklaerung": "Kurze Aussagen sind pr\u00e4gnanter.",
+        "icon": "short_text"
+    },
+    {
+        "sprichwort": "In der Not frisst der Teufel Fliegen.",
+        "erklaerung": "In ausweglosen Situationen tut man ungew\u00f6hnliche Dinge.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "In der Ruhe liegt die Kraft.",
+        "erklaerung": "Gelassenheit f\u00fchrt zum Erfolg.",
+        "icon": "spa"
+    },
+    {
+        "sprichwort": "In einer rauen Schale steckt oft ein guter Kern.",
+        "erklaerung": "Hinter einer harten Fassade kann sich ein guter Charakter verbergen.",
+        "icon": "person"
+    },
+    {
+        "sprichwort": "Irren ist menschlich.",
+        "erklaerung": "Jeder macht Fehler.",
+        "icon": "sentiment_dissatisfied"
+    },
+    {
+        "sprichwort": "Ist die Katze aus dem Haus, tanzen die M\u00e4use auf dem Tisch.",
+        "erklaerung": "Ohne Aufsicht wird Unsinn gemacht.",
+        "icon": "pets"
+    },
+    {
+        "sprichwort": "Jammern f\u00fcllt keine Kammern.",
+        "erklaerung": "Beschweren hilft nicht, man muss handeln.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Je oller, desto doller.",
+        "erklaerung": "\u00c4ltere Menschen werden oft leichtsinniger.",
+        "icon": "sentiment_very_satisfied"
+    },
+    {
+        "sprichwort": "Jede Flut hat ihre Ebbe.",
+        "erklaerung": "Nach jeder schlechten Zeit kommt eine gute.",
+        "icon": "waves"
+    },
+    {
+        "sprichwort": "Jede Gans hat ihren Martinstag.",
+        "erklaerung": "Jeder bekommt irgendwann seine gerechte Strafe.",
+        "icon": "calendar"
+    },
+    {
+        "sprichwort": "Jede Reise beginnt mit dem ersten Schritt.",
+        "erklaerung": "Man muss anfangen, um etwas zu erreichen.",
+        "icon": "forward"
+    },
+    {
+        "sprichwort": "Jedem das Seine.",
+        "erklaerung": "Jeder soll bekommen, was er verdient.",
+        "icon": "check"
+    },
+    {
+        "sprichwort": "Jedem Narren gef\u00e4llt seine Kappe.",
+        "erklaerung": "Jeder hat seinen eigenen Geschmack.",
+        "icon": "sentiment_very_satisfied"
+    },
+    {
+        "sprichwort": "Jeder ist seines Gl\u00fcckes Schmied.",
+        "erklaerung": "Man ist selbst f\u00fcr sein Gl\u00fcck verantwortlich.",
+        "icon": "build"
+    },
+    {
+        "sprichwort": "Jeder ist sich selbst der N\u00e4chste.",
+        "erklaerung": "Man k\u00fcmmert sich zuerst um sich selbst.",
+        "icon": "person"
+    },
+    {
+        "sprichwort": "Jeder kehre vor seiner eigenen T\u00fcr.",
+        "erklaerung": "Man soll sich um seine eigenen Angelegenheiten k\u00fcmmern.",
+        "icon": "home"
+    },
+    {
+        "sprichwort": "Jeder Kr\u00e4mer lobt seine Ware.",
+        "erklaerung": "Jeder preist seine eigenen Leistungen an.",
+        "icon": "store"
+    },
+    {
+        "sprichwort": "Jeder Topf findet seinen Deckel.",
+        "erklaerung": "Jeder findet den richtigen Partner.",
+        "icon": "heart"
+    },
+    {
+        "sprichwort": "Jugend kennt keine Tugend.",
+        "erklaerung": "Junge Menschen sind oft leichtsinnig.",
+        "icon": "sentiment_very_satisfied"
+    },
+    {
+        "sprichwort": "Jung gefreit hat niemand gereut.",
+        "erklaerung": "Fr\u00fch heiraten ist kein Fehler.",
+        "icon": "heart"
+    },
+    {
+        "sprichwort": "Katzen, die schnurren, kratzen trotzdem.",
+        "erklaerung": "Auch wer freundlich wirkt, kann gef\u00e4hrlich sein.",
+        "icon": "pets"
+    },
+    {
+        "sprichwort": "Kein Hund bei\u00dft in die Hand, die ihn f\u00fcttert.",
+        "erklaerung": "Man sollte seinen Wohlt\u00e4ter nicht angreifen.",
+        "icon": "pets"
+    },
+    {
+        "sprichwort": "Kein Rauch ohne Flamme.",
+        "erklaerung": "Ger\u00fcchte entstehen nicht ohne Grund.",
+        "icon": "fire"
+    },
+    {
+        "sprichwort": "Kein Tag gleicht dem anderen.",
+        "erklaerung": "Jeder Tag ist anders.",
+        "icon": "calendar_today"
+    },
+    {
+        "sprichwort": "Keine Rose ohne Dornen.",
+        "erklaerung": "Auch Sch\u00f6nes hat seine Schattenseiten.",
+        "icon": "local_florist"
+    },
+    {
+        "sprichwort": "Kinder und Narren sagen die Wahrheit.",
+        "erklaerung": "Wer unbedarft ist, sagt offen seine Meinung.",
+        "icon": "child_care"
+    },
+    {
+        "sprichwort": "Klappern geh\u00f6rt zum Handwerk.",
+        "erklaerung": "Werbung geh\u00f6rt zum Gesch\u00e4ft.",
+        "icon": "business_center"
+    },
+    {
+        "sprichwort": "Kleider machen Leute.",
+        "erklaerung": "Die Kleidung beeinflusst den ersten Eindruck.",
+        "icon": "checkroom"
+    },
+    {
+        "sprichwort": "Kleine Geschenke erhalten die Freundschaft.",
+        "erklaerung": "Aufmerksamkeiten st\u00e4rken Beziehungen.",
+        "icon": "gift"
+    },
+    {
+        "sprichwort": "Kleine Ursache, gro\u00dfe Wirkung.",
+        "erklaerung": "Geringf\u00fcgiges kann gro\u00dfe Folgen haben.",
+        "icon": "eco"
+    },
+    {
+        "sprichwort": "Kleinvieh macht auch Mist.",
+        "erklaerung": "Auch kleine Betr\u00e4ge summieren sich.",
+        "icon": "money"
+    },
+    {
+        "sprichwort": "Kommt Zeit, kommt Rat.",
+        "erklaerung": "Mit der Zeit findet man eine L\u00f6sung.",
+        "icon": "hourglass_empty"
+    },
+    {
+        "sprichwort": "Kunde ist K\u00f6nig.",
+        "erklaerung": "Der Kunde hat immer Recht.",
+        "icon": "person"
+    },
+    {
+        "sprichwort": "Kunst kommt von k\u00f6nnen.",
+        "erklaerung": "Talent und \u00dcbung machen den K\u00fcnstler.",
+        "icon": "palette"
+    },
+    {
+        "sprichwort": "Lachen ist die beste Medizin.",
+        "erklaerung": "Lachen ist gesund.",
+        "icon": "sentiment_very_satisfied"
+    },
+    {
+        "sprichwort": "Lange F\u00e4dchen, faule M\u00e4dchen.",
+        "erklaerung": "Wer lange braucht, ist faul.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Lerne Ordnung, liebe sie, sie erspart dir Zeit und M\u00fch.",
+        "erklaerung": "Ordnung erleichtert das Leben.",
+        "icon": "sort"
+    },
+    {
+        "sprichwort": "Liebe geht durch den Magen.",
+        "erklaerung": "Gutes Essen macht Liebe.",
+        "icon": "restaurant"
+    },
+    {
+        "sprichwort": "Liebe macht blind.",
+        "erklaerung": "Verliebte sehen oft nicht klar.",
+        "icon": "heart"
+    },
+    {
+        "sprichwort": "Lieber arm dran, als Arm ab.",
+        "erklaerung": "Besser schlecht dran als gar nicht.",
+        "icon": "sentiment_dissatisfied"
+    },
+    {
+        "sprichwort": "Lieber ein Ende mit Schrecken als ein Schrecken ohne Ende.",
+        "erklaerung": "Besser eine schnelle L\u00f6sung als langes Leiden.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Loben zieht nach oben.",
+        "erklaerung": "Lob f\u00fchrt zu Erfolg.",
+        "icon": "thumb_up"
+    },
+    {
+        "sprichwort": "L\u00fcgen haben kurze Beine.",
+        "erklaerung": "L\u00fcgen fliegen schnell auf.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Lust und Liebe zu einem Ding macht alle M\u00fch\u2018 und Arbeit gering.",
+        "erklaerung": "Was man gerne tut, f\u00e4llt leicht.",
+        "icon": "favorite"
+    },
+    {
+        "sprichwort": "Macht geht vor Recht.",
+        "erklaerung": "M\u00e4chtige k\u00f6nnen sich oft \u00fcber Recht hinwegsetzen.",
+        "icon": "gavel"
+    },
+    {
+        "sprichwort": "Man ist so jung, wie man sich f\u00fchlt.",
+        "erklaerung": "Das Alter ist relativ.",
+        "icon": "sentiment_very_satisfied"
+    },
+    {
+        "sprichwort": "Man ist was man isst.",
+        "erklaerung": "Ern\u00e4hrung beeinflusst die Gesundheit.",
+        "icon": "restaurant"
+    },
+    {
+        "sprichwort": "Man lernt nie aus.",
+        "erklaerung": "Es gibt immer etwas Neues zu lernen.",
+        "icon": "school"
+    },
+    {
+        "sprichwort": "Man muss das Eisen schmieden, solange es hei\u00df ist.",
+        "erklaerung": "Gelegenheiten sollte man nutzen.",
+        "icon": "build"
+    },
+    {
+        "sprichwort": "Man muss die Feste feiern, wie sie fallen.",
+        "erklaerung": "Man soll das Leben genie\u00dfen.",
+        "icon": "celebration"
+    },
+    {
+        "sprichwort": "Man muss mit den W\u00f6lfen heulen.",
+        "erklaerung": "Manchmal muss man sich anpassen.",
+        "icon": "pets"
+    },
+    {
+        "sprichwort": "Man sieht sich im Leben immer zweimal.",
+        "erklaerung": "Man sollte niemanden ver\u00e4rgern.",
+        "icon": "person"
+    },
+    {
+        "sprichwort": "Man soll den Tag nicht vor dem Abend loben.",
+        "erklaerung": "Man soll sich nicht zu fr\u00fch freuen.",
+        "icon": "calendar_today"
+    },
+    {
+        "sprichwort": "Masse statt Klasse.",
+        "erklaerung": "Quantit\u00e4t geht vor Qualit\u00e4t.",
+        "icon": "group"
+    },
+    {
+        "sprichwort": "Mit dem Hut in der Hand kommst du durch das ganze Land.",
+        "erklaerung": "H\u00f6flichkeit \u00f6ffnet T\u00fcren.",
+        "icon": "sentiment_very_satisfied"
+    },
+    {
+        "sprichwort": "Mitgefangen, mitgehangen.",
+        "erklaerung": "Wer mitmacht, ist mitschuldig.",
+        "icon": "group"
+    },
+    {
+        "sprichwort": "Mit Speck f\u00e4ngt man M\u00e4use.",
+        "erklaerung": "Mit dem Richtigen lockt man Menschen.",
+        "icon": "pets"
+    },
+    {
+        "sprichwort": "Morgen ist auch noch ein Tag.",
+        "erklaerung": "Man hat noch Zeit.",
+        "icon": "calendar_today"
+    },
+    {
+        "sprichwort": "Morgenstund hat Gold im Munde.",
+        "erklaerung": "Der fr\u00fche Vogel f\u00e4ngt den Wurm.",
+        "icon": "calendar_today"
+    },
+    {
+        "sprichwort": "M\u00fchsam n\u00e4hrt sich das Eichh\u00f6rnchen.",
+        "erklaerung": "Erfolg braucht Anstrengung.",
+        "icon": "pets"
+    },
+    {
+        "sprichwort": "Muss ist eine harte Nuss.",
+        "erklaerung": "Pflichten sind unangenehm.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "M\u00fc\u00dfiggang ist aller Laster Anfang.",
+        "erklaerung": "Langeweile f\u00fchrt zu schlechtem Verhalten.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Nach getaner Arbeit ist gut ruhn.",
+        "erklaerung": "Nach der Arbeit soll man sich entspannen.",
+        "icon": "spa"
+    },
+    {
+        "sprichwort": "Naschen macht leere Taschen.",
+        "erklaerung": "S\u00fc\u00dfigkeiten sind teuer.",
+        "icon": "money"
+    },
+    {
+        "sprichwort": "Neue Besen kehren gut.",
+        "erklaerung": "Anfangs ist die Motivation hoch.",
+        "icon": "cleaning_services"
+    },
+    {
+        "sprichwort": "Niemand kann zwei Herren dienen.",
+        "erklaerung": "Man kann es nicht allen recht machen.",
+        "icon": "group"
+    },
+    {
+        "sprichwort": "Not bricht Eisen.",
+        "erklaerung": "In Notsituationen findet man L\u00f6sungen.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Not kennt kein Gebot.",
+        "erklaerung": "In Notsituationen sind Regeln egal.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Not macht erfinderisch.",
+        "erklaerung": "In schwierigen Situationen wird man kreativ.",
+        "icon": "lightbulb"
+    },
+    {
+        "sprichwort": "Nur Bares ist Wahres.",
+        "erklaerung": "Bargeld ist sicherer als Versprechen.",
+        "icon": "money"
+    },
+    {
+        "sprichwort": "Nur der Tod ist umsonst.",
+        "erklaerung": "Alles hat seinen Preis.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Ohne Flei\u00df kein Preis.",
+        "erklaerung": "Ohne Arbeit kein Erfolg.",
+        "icon": "work"
+    },
+    {
+        "sprichwort": "Ordnung ist das halbe Leben.",
+        "erklaerung": "Ordnung erleichtert das Leben.",
+        "icon": "sort"
+    },
+    {
+        "sprichwort": "Ordnung muss sein.",
+        "erklaerung": "Ordnung ist wichtig.",
+        "icon": "sort"
+    },
+    {
+        "sprichwort": "Papier ist geduldig.",
+        "erklaerung": "Man kann alles aufschreiben.",
+        "icon": "article"
+    },
+    {
+        "sprichwort": "Probieren geht \u00fcber Studieren.",
+        "erklaerung": "Praktische Erfahrung ist wichtiger als Theorie.",
+        "icon": "build"
+    },
+    {
+        "sprichwort": "P\u00fcnktlichkeit ist die H\u00f6flichkeit der K\u00f6nige.",
+        "erklaerung": "P\u00fcnktlichkeit ist wichtig.",
+        "icon": "schedule"
+    },
+    {
+        "sprichwort": "Rache ist s\u00fc\u00df.",
+        "erklaerung": "Sich zu r\u00e4chen kann befriedigend sein.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Ratschl\u00e4ge sind auch Schl\u00e4ge.",
+        "erklaerung": "Ratschl\u00e4ge k\u00f6nnen unangenehm sein.",
+        "icon": "sentiment_dissatisfied"
+    },
+    {
+        "sprichwort": "Reden ist Silber, Schweigen ist Gold.",
+        "erklaerung": "Manchmal ist es besser zu schweigen.",
+        "icon": "mic_off"
+    },
+    {
+        "sprichwort": "Reisen bildet.",
+        "erklaerung": "Reisen erweitert den Horizont.",
+        "icon": "flight_takeoff"
+    },
+    {
+        "sprichwort": "Reisende soll man nicht aufhalten.",
+        "erklaerung": "Man soll Menschen nicht von ihren Pl\u00e4nen abbringen.",
+        "icon": "flight_takeoff"
+    },
+    {
+        "sprichwort": "Rom wurde auch nicht an einem Tag erbaut.",
+        "erklaerung": "Gro\u00dfe Dinge brauchen Zeit.",
+        "icon": "hourglass_empty"
+    },
+    {
+        "sprichwort": "Rost frisst Eisen, Sorge den Menschen.",
+        "erklaerung": "Sorgen schaden der Gesundheit.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Ruhe ist die erste B\u00fcrgerpflicht.",
+        "erklaerung": "Man soll andere nicht st\u00f6ren.",
+        "icon": "spa"
+    },
+    {
+        "sprichwort": "Sag niemals nie.",
+        "erklaerung": "Man soll nichts ausschlie\u00dfen.",
+        "icon": "sentiment_very_satisfied"
+    },
+    {
+        "sprichwort": "Scheiden bringt Leiden.",
+        "erklaerung": "Trennungen sind schmerzhaft.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Scherben bringen Gl\u00fcck.",
+        "erklaerung": "Zerbrochenes Geschirr soll Gl\u00fcck bringen.",
+        "icon": "sentiment_very_satisfied"
+    },
+    {
+        "sprichwort": "Schmiede das Eisen, solange es noch hei\u00df ist.",
+        "erklaerung": "Gelegenheiten sollte man nutzen.",
+        "icon": "build"
+    },
+    {
+        "sprichwort": "Schlechte Beispiele verderben gute Sitten.",
+        "erklaerung": "Schlechter Einfluss ist gef\u00e4hrlich.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Sch\u00f6nheit liegt im Auge des Betrachters.",
+        "erklaerung": "Sch\u00f6nheit ist subjektiv.",
+        "icon": "visibility"
+    },
+    {
+        "sprichwort": "Sch\u00f6nheit vergeht, Tugend besteht.",
+        "erklaerung": "Charakter ist wichtiger als Aussehen.",
+        "icon": "favorite"
+    },
+    {
+        "sprichwort": "Schritt vor Schritt kommt auch ans Ziel.",
+        "erklaerung": "Mit Geduld und Ausdauer erreicht man sein Ziel.",
+        "icon": "forward"
+    },
+    {
+        "sprichwort": "Schuster, bleib bei deinen Leisten.",
+        "erklaerung": "Man soll sich auf seine St\u00e4rken konzentrieren.",
+        "icon": "build"
+    },
+    {
+        "sprichwort": "Selbst ist der Mann.",
+        "erklaerung": "M\u00e4nner k\u00f6nnen auch selbstst\u00e4ndig sein.",
+        "icon": "person"
+    },
+    {
+        "sprichwort": "Selbst ist die Frau.",
+        "erklaerung": "Frauen k\u00f6nnen auch selbstst\u00e4ndig sein.",
+        "icon": "person"
+    },
+    {
+        "sprichwort": "So wie die Alten pfeifen, so zwitschern die Jungen.",
+        "erklaerung": "Kinder ahmen ihre Eltern nach.",
+        "icon": "family_rest"
+    },
+    {
+        "sprichwort": "Spare in der Zeit, so hast du in der Not.",
+        "erklaerung": "Vorratshaltung ist wichtig.",
+        "icon": "money"
+    },
+    {
+        "sprichwort": "Steter Tropfen h\u00f6hlt den Stein.",
+        "erklaerung": "Ausdauer f\u00fchrt zum Erfolg.",
+        "icon": "water_drop"
+    },
+    {
+        "sprichwort": "Stille Wasser gr\u00fcnden tief.",
+        "erklaerung": "Ruhige Menschen sind oft klug.",
+        "icon": "water_drop"
+    },
+    {
+        "sprichwort": "Talent hat man oder nicht.",
+        "erklaerung": "Talent ist angeboren.",
+        "icon": "palette"
+    },
+    {
+        "sprichwort": "Tote Hunde bei\u00dfen nicht.",
+        "erklaerung": "Von Toten geht keine Gefahr mehr aus.",
+        "icon": "pets"
+    },
+    {
+        "sprichwort": "Tr\u00e4nen l\u00fcgen nicht.",
+        "erklaerung": "Tr\u00e4nen zeigen ehrliche Gef\u00fchle.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Trau, schau, wem.",
+        "erklaerung": "Man soll nicht jedem vertrauen.",
+        "icon": "sentiment_dissatisfied"
+    },
+    {
+        "sprichwort": "Tr\u00e4ume sind Sch\u00e4ume.",
+        "erklaerung": "Tr\u00e4ume sind unrealistisch.",
+        "icon": "cloud"
+    },
+    {
+        "sprichwort": "Trautes Heim, Gl\u00fcck allein.",
+        "erklaerung": "Zuhause ist es am sch\u00f6nsten.",
+        "icon": "home"
+    },
+    {
+        "sprichwort": "\u00dcber Geschmack l\u00e4sst sich streiten.",
+        "erklaerung": "Geschmack ist subjektiv.",
+        "icon": "sentiment_satisfied"
+    },
+    {
+        "sprichwort": "\u00dcberall, wo ein Aas ist, da sammeln sich die Geier.",
+        "erklaerung": "Wo es etwas zu holen gibt, sind Profiteure schnell da.",
+        "icon": "pets"
+    },
+    {
+        "sprichwort": "\u00dcbermut tut selten gut.",
+        "erklaerung": "\u00dcberheblichkeit wird bestraft.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "\u00dcbung macht den Meister.",
+        "erklaerung": "Nur wer \u00fcbt, wird gut.",
+        "icon": "school"
+    },
+    {
+        "sprichwort": "Umsonst ist der Tod.",
+        "erklaerung": "Alles hat seinen Preis.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Undank ist der Welten Lohn.",
+        "erklaerung": "Oft wird Gutes mit B\u00f6sem vergolten.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Unkraut vergeht nicht.",
+        "erklaerung": "Schlechte Dinge \u00fcberleben oft.",
+        "icon": "eco"
+    },
+    {
+        "sprichwort": "Unter den Blinden ist der Ein\u00e4ugige K\u00f6nig.",
+        "erklaerung": "Auch wer nur wenig kann, ist manchmal \u00fcberlegen.",
+        "icon": "visibility"
+    },
+    {
+        "sprichwort": "Unter jedem Dach ein Ach.",
+        "erklaerung": "Jeder hat seine Sorgen.",
+        "icon": "home"
+    },
+    {
+        "sprichwort": "Unverhofft kommt oft.",
+        "erklaerung": "Mit \u00dcberraschungen muss man rechnen.",
+        "icon": "sentiment_very_satisfied"
+    },
+    {
+        "sprichwort": "Unwissenheit sch\u00fctzt vor Strafe nicht.",
+        "erklaerung": "Auch wer etwas nicht wei\u00df, kann schuldig sein.",
+        "icon": "gavel"
+    },
+    {
+        "sprichwort": "Versuch macht klug.",
+        "erklaerung": "Aus Fehlern lernt man.",
+        "icon": "school"
+    },
+    {
+        "sprichwort": "Vertrauen ist gut, Kontrolle ist besser.",
+        "erklaerung": "Man sollte nicht blind vertrauen.",
+        "icon": "visibility"
+    },
+    {
+        "sprichwort": "Viel Feind, viel Ehr.",
+        "erklaerung": "Wer viele Feinde hat, muss etwas richtig machen.",
+        "icon": "group"
+    },
+    {
+        "sprichwort": "Viel Geschrei und wenig Wolle.",
+        "erklaerung": "Gro\u00dfe Versprechungen, wenig dahinter.",
+        "icon": "volume_up"
+    },
+    {
+        "sprichwort": "Viele B\u00e4che machen einen Strom.",
+        "erklaerung": "Gemeinsam ist man st\u00e4rker.",
+        "icon": "stream"
+    },
+    {
+        "sprichwort": "Viele H\u00e4nde, schnelles Ende.",
+        "erklaerung": "Zusammenarbeit beschleunigt Arbeit.",
+        "icon": "group_work"
+    },
+    {
+        "sprichwort": "Viele Hunde sind des Hasen Tod.",
+        "erklaerung": "\u00dcberzahl kann zum Nachteil werden.",
+        "icon": "pets"
+    },
+    {
+        "sprichwort": "Viele K\u00f6che verderben den Brei.",
+        "erklaerung": "Zu viele Meinungen schaden.",
+        "icon": "restaurant"
+    },
+    {
+        "sprichwort": "Viele Wege f\u00fchren nach Rom.",
+        "erklaerung": "Es gibt viele L\u00f6sungen f\u00fcr ein Problem.",
+        "icon": "route"
+    },
+    {
+        "sprichwort": "Vier Augen sehen mehr als zwei.",
+        "erklaerung": "Gemeinsam findet man mehr.",
+        "icon": "visibility"
+    },
+    {
+        "sprichwort": "Vogel friss oder stirb.",
+        "erklaerung": "Anpassung oder Untergang.",
+        "icon": "flight"
+    },
+    {
+        "sprichwort": "Von nichts kommt nichts.",
+        "erklaerung": "Ohne Flei\u00df kein Preis.",
+        "icon": "work"
+    },
+    {
+        "sprichwort": "Vorfreude ist die sch\u00f6nste Freude.",
+        "erklaerung": "Vorfreude \u00fcbertrifft den Moment.",
+        "icon": "celebration"
+    },
+    {
+        "sprichwort": "Vorsicht ist besser als Nachsicht.",
+        "erklaerung": "Besser vorbeugen als hinterher bereuen.",
+        "icon": "warning"
+    },
+    {
+        "sprichwort": "Wahre Sch\u00f6nheit kennt kein Alter.",
+        "erklaerung": "Wahre Sch\u00f6nheit ist zeitlos.",
+        "icon": "favorite"
+    },
+    {
+        "sprichwort": "Wahre Sch\u00f6nheit kommt von innen.",
+        "erklaerung": "Charakter ist wichtiger als Aussehen.",
+        "icon": "favorite"
+    },
+    {
+        "sprichwort": "Was der Bauer nicht kennt, frisst er nicht.",
+        "erklaerung": "Man ist Neuem gegen\u00fcber skeptisch.",
+        "icon": "eco"
+    },
+    {
+        "sprichwort": "Was du heute kannst besorgen, das verschiebe nicht auf morgen.",
+        "erklaerung": "Aufschieberitis ist schlecht.",
+        "icon": "calendar_today"
+    },
+    {
+        "sprichwort": "Was du nicht willst, das man dir tu, das f\u00fcg auch keinem anderen zu.",
+        "erklaerung": "Die goldene Regel.",
+        "icon": "pan_tool"
+    },
+    {
+        "sprichwort": "Was H\u00e4nschen nicht lernt, lernt Hans nimmermehr.",
+        "erklaerung": "Was man in jungen Jahren nicht lernt...",
+        "icon": "school"
+    },
+    {
+        "sprichwort": "Was lange w\u00e4hrt, wird endlich gut.",
+        "erklaerung": "Geduld wird belohnt.",
+        "icon": "hourglass_empty"
+    },
+    {
+        "sprichwort": "Was man nicht im Kopf hat, muss man in den Beinen haben.",
+        "erklaerung": "Wer nicht plant, muss mehr laufen.",
+        "icon": "directions_run"
+    },
+    {
+        "sprichwort": "Was man sich eingebrockt hat, das muss man auch ausl\u00f6ffeln.",
+        "erklaerung": "F\u00fcr die eigenen Fehler geradestehen.",
+        "icon": "restaurant"
+    },
+    {
+        "sprichwort": "Was nicht ist, kann ja noch werden.",
+        "erklaerung": "Es besteht immer Hoffnung.",
+        "icon": "lightbulb_outline"
+    },
+    {
+        "sprichwort": "Wasser hat keine Balken.",
+        "erklaerung": "Gegen Widrigkeiten kann man nichts tun.",
+        "icon": "water_drop"
+    },
+    {
+        "sprichwort": "Weggegangen, Platz vergangen.",
+        "erklaerung": "Wer seinen Platz aufgibt, verliert ihn.",
+        "icon": "directions_walk"
+    },
+    {
+        "sprichwort": "Wein, Weib und Gesang.",
+        "erklaerung": "Die Freuden des Lebens.",
+        "icon": "music_note"
+    },
+    {
+        "sprichwort": "Wem der Schuh passt, der zieht ihn sich an.",
+        "erklaerung": "Wer sich angesprochen f\u00fchlt...",
+        "icon": "shoe"
+    },
+    {
+        "sprichwort": "Wem man den kleinen Finger gibt, der nimmt oft die ganze Hand.",
+        "erklaerung": "Man sollte nicht zu gro\u00dfz\u00fcgig sein.",
+        "icon": "pan_tool"
+    },
+    {
+        "sprichwort": "Weniger ist meist mehr.",
+        "erklaerung": "Minimalismus ist oft besser.",
+        "icon": "remove_circle_outline"
+    },
+    {
+        "sprichwort": "Wenn der Hahn kr\u00e4ht auf dem Mist, \u00e4ndert sich das Wetter oder es bleibt, wie es ist.",
+        "erklaerung": "Unsichere Vorhersagen.",
+        "icon": "wb_sunny"
+    },
+    {
+        "sprichwort": "Wenn die Katze aus dem Haus ist, tanzen die M\u00e4use auf dem Tisch.",
+        "erklaerung": "Ohne Aufsicht wird Unsinn getrieben.",
+        "icon": "pets"
+    },
+    {
+        "sprichwort": "Wer A sagt, muss auch B sagen.",
+        "erklaerung": "Konsequenz in Entscheidungen.",
+        "icon": "sort_by_alpha"
+    },
+    {
+        "sprichwort": "Wer anderen eine Grube gr\u00e4bt, f\u00e4llt selbst hinein.",
+        "erklaerung": "Wer B\u00f6ses tut, wird bestraft.",
+        "icon": "shovel"
+    },
+    {
+        "sprichwort": "Wer Angst hat, lebt l\u00e4nger.",
+        "erklaerung": "Vorsicht sch\u00fctzt vor Gefahren.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Wer billig kauft, kauft zweimal.",
+        "erklaerung": "Qualit\u00e4t hat ihren Preis.",
+        "icon": "shopping_cart"
+    },
+    {
+        "sprichwort": "Wer den Pfennig nicht ehrt, ist des Talers nicht wert.",
+        "erklaerung": "Wer Kleinigkeiten nicht sch\u00e4tzt...",
+        "icon": "euro_symbol"
+    },
+    {
+        "sprichwort": "Wer die Musik bestellt hat, muss sie auch bezahlen.",
+        "erklaerung": "Verantwortung f\u00fcr Entscheidungen.",
+        "icon": "music_note"
+    },
+    {
+        "sprichwort": "Wer die Suppe einbrockt, muss sie auch ausl\u00f6ffeln.",
+        "erklaerung": "F\u00fcr die eigenen Fehler geradestehen.",
+        "icon": "restaurant"
+    },
+    {
+        "sprichwort": "Wer die Wahl hat, hat die Qual.",
+        "erklaerung": "Entscheidungen k\u00f6nnen schwierig sein.",
+        "icon": "help_outline"
+    },
+    {
+        "sprichwort": "Wer einmal l\u00fcgt, dem glaubt man nicht, und wenn er auch die Wahrheit spricht.",
+        "erklaerung": "L\u00fcgen zerst\u00f6ren Vertrauen.",
+        "icon": "sentiment_very_dissatisfied"
+    },
+    {
+        "sprichwort": "Wer gut schmiert, der gut f\u00e4hrt.",
+        "erklaerung": "Bestechung f\u00fchrt zum Ziel.",
+        "icon": "local_gas_station"
+    },
+    {
+        "sprichwort": "Wer hoch steigt, f\u00e4llt tief.",
+        "erklaerung": "Je h\u00f6her der Aufstieg, desto tiefer der Fall.",
+        "icon": "trending_up"
+    },
+    {
+        "sprichwort": "Wer im Glashaus sitzt, soll nicht mit Steinen werfen.",
+        "erklaerung": "Heuchelei ist verwerflich.",
+        "icon": "home"
+    },
+    {
+        "sprichwort": "Wer nicht h\u00f6ren will, muss f\u00fchlen.",
+        "erklaerung": "Sturheit wird bestraft.",
+        "icon": "hearing"
+    },
+    {
+        "sprichwort": "Wer nicht sehen will, dem hilft keine Brille.",
+        "erklaerung": "Wer ignorant ist, dem ist nicht zu helfen.",
+        "icon": "visibility_off"
+    },
+    {
+        "sprichwort": "Wer nicht wagt, der nicht gewinnt.",
+        "erklaerung": "Ohne Risiko kein Erfolg.",
+        "icon": "casino"
+    },
+    {
+        "sprichwort": "Wer Ordnung h\u00e4lt, ist zu faul zum Suchen.",
+        "erklaerung": "Ordnung spart Zeit.",
+        "icon": "sort"
+    },
+    {
+        "sprichwort": "Wer rastet, der rostet.",
+        "erklaerung": "Ohne Aktivit\u00e4t verk\u00fcmmert man.",
+        "icon": "sports"
+    },
+    {
+        "sprichwort": "Wer sch\u00f6n sein will, muss leiden.",
+        "erklaerung": "Sch\u00f6nheit erfordert Opfer.",
+        "icon": "face"
+    },
+    {
+        "sprichwort": "Wer schreibt, der bleibt.",
+        "erklaerung": "Geschriebenes ist best\u00e4ndiger.",
+        "icon": "edit"
+    },
+    {
+        "sprichwort": "Wer sucht, der findet.",
+        "erklaerung": "Beharrlichkeit wird belohnt.",
+        "icon": "search"
+    },
+    {
+        "sprichwort": "Wer zuletzt lacht, lacht am besten.",
+        "erklaerung": "Rache ist s\u00fc\u00df.",
+        "icon": "sentiment_very_satisfied"
+    },
+    {
+        "sprichwort": "Wie gewonnen, so zerronnen.",
+        "erklaerung": "Schnell erworbenes Verm\u00f6gen...",
+        "icon": "money"
+    },
+    {
+        "sprichwort": "Wie man in den Wald hineinruft, so schallt es heraus.",
+        "erklaerung": "Man erntet, was man s\u00e4t.",
+        "icon": "volume_up"
+    },
+    {
+        "sprichwort": "Wie man sich bettet, so liegt man.",
+        "erklaerung": "Man ist f\u00fcr sein Gl\u00fcck selbst verantwortlich.",
+        "icon": "bed"
+    },
+    {
+        "sprichwort": "Wissen ist Macht.",
+        "erklaerung": "Bildung ist der Schl\u00fcssel.",
+        "icon": "school"
+    },
+    {
+        "sprichwort": "Wo ein Wille ist, ist auch ein Weg.",
+        "erklaerung": "Mit Entschlossenheit erreicht man alles.",
+        "icon": "directions"
+    },
+    {
+        "sprichwort": "Wo gehobelt wird, fallen Sp\u00e4ne.",
+        "erklaerung": "Fehler sind unvermeidlich.",
+        "icon": "build"
+    },
+    {
+        "sprichwort": "Zeit heilt alle Wunden.",
+        "erklaerung": "Schmerz vergeht mit der Zeit.",
+        "icon": "access_time"
+    },
+    {
+        "sprichwort": "Zeit ist Geld.",
+        "erklaerung": "Zeit ist kostbar.",
+        "icon": "access_time"
+    },
+    {
+        "sprichwort": "Zu viele K\u00f6che verderben den Brei.",
+        "erklaerung": "Zu viele Meinungen schaden.",
+        "icon": "restaurant"
+    }
+]
